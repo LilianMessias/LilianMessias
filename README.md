@@ -4,6 +4,6 @@
 
 📚 Estudando HTML ,CSS e JAVASCRIPT<br>
 😬 Estou procurando ajuda em JavaScript<br>
-💡  Atualmente estou procurando <br>
+💡  Atualmente estou procurando estágio <br>
 
 
