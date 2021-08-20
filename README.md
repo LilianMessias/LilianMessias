@@ -3,7 +3,6 @@
 
 
 📚 Estudando HTML ,CSS e JAVASCRIPT<br>
-😬 Estou procurando ajuda em JavaScript<br>
 💡 Procurando estagio
 
 
